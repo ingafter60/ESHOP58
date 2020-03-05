@@ -1,7 +1,7 @@
-@extends('layouts.app')
+@extends('layouts.default')
 
-@section('content')
-<div class="container">
+@section('main')
+{{-- <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -19,5 +19,10 @@
             </div>
         </div>
     </div>
+</div> --}}
+
+<div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis iste eligendi dolorem, doloribus rerum. Ratione animi placeat fugit architecto atque inventore voluptatem labore nobis, dicta quis mollitia quisquam saepe repellat.</p>
 </div>
+<hr>
 @endsection

@@ -1,0 +1,2 @@
+<h1>PARTIALS/HEADER.BLADE.PHP</h1>
+<hr>
